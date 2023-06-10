@@ -1,4 +1,4 @@
-﻿using QLShopThoiTrang.DAL;
+﻿using ThiTracNghiem.DAL;
 using System;
 using System.Collections.Generic;
 using System.Data;
