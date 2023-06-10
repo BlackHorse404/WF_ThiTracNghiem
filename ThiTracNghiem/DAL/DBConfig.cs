@@ -10,9 +10,9 @@ namespace QLShopThoiTrang.DAL
     class DBConfig
     {
         private static string serverName = "localhost";
-        private static string dBname = "QLShopThoiTrang";
-        private static string user = "";
-        private static string pass = "";
+        private static string dBname = "QLTracNghiem";
+        private static string user = "sa";
+        private static string pass = "sa";
         public static string Username { set { user = value; } get { return user; } }
         public static string Password { set { user = value; } get { return pass; } }
         public static string ServerName { get => serverName;}
