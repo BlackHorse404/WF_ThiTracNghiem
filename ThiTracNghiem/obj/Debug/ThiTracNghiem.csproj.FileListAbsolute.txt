@@ -1,0 +1,10 @@
+E:\HUFI\WARNING\ThiTracNghiem\ThiTracNghiem\bin\Debug\ThiTracNghiem.exe.config
+E:\HUFI\WARNING\ThiTracNghiem\ThiTracNghiem\bin\Debug\ThiTracNghiem.exe
+E:\HUFI\WARNING\ThiTracNghiem\ThiTracNghiem\bin\Debug\ThiTracNghiem.pdb
+E:\HUFI\WARNING\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.csproj.AssemblyReference.cache
+E:\HUFI\WARNING\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.GUI.Login.resources
+E:\HUFI\WARNING\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.Properties.Resources.resources
+E:\HUFI\WARNING\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.csproj.GenerateResource.cache
+E:\HUFI\WARNING\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.csproj.CoreCompileInputs.cache
+E:\HUFI\WARNING\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.exe
+E:\HUFI\WARNING\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.pdb
