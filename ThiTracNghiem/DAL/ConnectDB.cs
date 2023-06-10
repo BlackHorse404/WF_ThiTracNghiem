@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
 
-namespace QLShopThoiTrang.DAL
+namespace ThiTracNghiem.DAL
 {
     class ConnectDB
     {

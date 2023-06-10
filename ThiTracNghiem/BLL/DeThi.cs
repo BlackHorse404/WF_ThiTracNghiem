@@ -8,5 +8,6 @@ namespace ThiTracNghiem.BLL
 {
     class DeThi
     {
+
     }
 }
