@@ -10,13 +10,11 @@ using System.Windows.Forms;
 
 namespace ThiTracNghiem.GUI
 {
-    public partial class ThongTinSinhVien : Form
+    public partial class LamBai : Form
     {
-        public ThongTinSinhVien()
+        public LamBai()
         {
             InitializeComponent();
         }
-
-      
     }
 }
