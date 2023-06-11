@@ -46,29 +46,55 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BLL\CauHoi.cs" />
+    <Compile Include="BLL\Chuong.cs" />
+    <Compile Include="BLL\CT_DeThi.cs" />
+    <Compile Include="BLL\CT_KetQua.cs" />
     <Compile Include="BLL\DeThi.cs" />
+    <Compile Include="BLL\HocVien.cs" />
+    <Compile Include="BLL\KetQua.cs" />
+    <Compile Include="BLL\LopHoc.cs" />
+    <Compile Include="BLL\MonHoc.cs" />
     <Compile Include="BLL\UserLogin.cs" />
     <Compile Include="DAL\ConnectDB.cs" />
     <Compile Include="DAL\DBConfig.cs" />
+    <Compile Include="GUI\LamBai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\LamBai.Designer.cs">
+      <DependentUpon>LamBai.cs</DependentUpon>
+    </Compile>
     <Compile Include="GUI\Login.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="GUI\Login.Designer.cs">
       <DependentUpon>Login.cs</DependentUpon>
     </Compile>
-    <Compile Include="GUI\ThongTinSinhVien.cs">
+    <Compile Include="GUI\ThongTinHocVien.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="GUI\ThongTinSinhVien.designer.cs">
-      <DependentUpon>ThongTinSinhVien.cs</DependentUpon>
+    <Compile Include="GUI\ThongTinHocVien.designer.cs">
+      <DependentUpon>ThongTinHocVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\XemKetQua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\XemKetQua.Designer.cs">
+      <DependentUpon>XemKetQua.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GUI\LamBai.resx">
+      <DependentUpon>LamBai.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="GUI\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="GUI\ThongTinSinhVien.resx">
-      <DependentUpon>ThongTinSinhVien.cs</DependentUpon>
+    <EmbeddedResource Include="GUI\ThongTinHocVien.resx">
+      <DependentUpon>ThongTinHocVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\XemKetQua.resx">
+      <DependentUpon>XemKetQua.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

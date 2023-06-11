@@ -8,3 +8,6 @@ E:\HUFI\WARNING\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.csproj.Gener
 E:\HUFI\WARNING\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.csproj.CoreCompileInputs.cache
 E:\HUFI\WARNING\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.exe
 E:\HUFI\WARNING\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.pdb
+E:\HUFI\WARNING\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.GUI.LamBai.resources
+E:\HUFI\WARNING\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.GUI.ThongTinHocVien.resources
+E:\HUFI\WARNING\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.GUI.XemKetQua.resources

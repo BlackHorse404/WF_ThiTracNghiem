@@ -31,6 +31,9 @@ namespace ThiTracNghiem.GUI
                 {
                     MessageBox.Show("Học Sinh có mã "+UserLogin.username+" đăng nhập thành công !", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     this.Hide();
+                    ThongTinHocVien f = new ThongTinHocVien();
+                    f.Show();
+                    f.Owner = this;
                 }
                 else
                 {
